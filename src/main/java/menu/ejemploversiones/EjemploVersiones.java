@@ -1,7 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-
+//Éxitos en tu cursada!!! 
 package menu.ejemploversiones;
 
 /**
